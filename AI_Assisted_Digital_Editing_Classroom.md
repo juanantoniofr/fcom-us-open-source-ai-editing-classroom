@@ -19,7 +19,7 @@
 
 | Versión |   Fecha    | Autor                       | Descripción del Cambio                                                                                                           |
 | :-----: | :--------: | :-------------------------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| **1.0** | 13/03/2026 | Juan Antonio Fernández Ruiz | Creación del informe para documentar el Roadmap del proyecto para montar un Aula de Edición Digital Asistida por IA Open Source. |
+| **1.0** | 13/04/2026 | Juan Antonio Fernández Ruiz | Creación del informe para documentar el Roadmap del proyecto para montar un Aula de Edición Digital Asistida por IA Open Source. |
 
 <br /><br /><br /><br />
 
