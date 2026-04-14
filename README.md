@@ -17,7 +17,6 @@ El objetivo del proyecto es definir y desplegar un entorno académico y docente 
 | [education/](education)                                                              | Material orientado a adopción docente, formación y uso educativo.                                                  |
 | [references/](references)                                                            | Referencias de stack, estándares y criterios técnicos.                                                             |
 | [images/](images)                                                                    | Recursos gráficos y elementos visuales del proyecto.                                                               |
-| [.github/](.github)                                                                  | Plantillas y automatización específica de GitHub.                                                                  |
 
 ## Visión general
 
