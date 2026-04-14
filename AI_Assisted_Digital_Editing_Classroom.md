@@ -28,6 +28,21 @@
     Juan Antonio Fernández Ruiz<br />
 </div>
 
+## Reorganización de contenido
+
+La documentación de este proyecto se ha dividido en archivos temáticos para facilitar su mantenimiento.
+
+| Sección | Nuevo archivo |
+| --- | --- |
+| Gobernanza y roles | [governance/roles-and-committee.md](governance/roles-and-committee.md) |
+| Gobierno del dato | [governance/data-governance.md](governance/data-governance.md) |
+| Seguridad y cumplimiento | [governance/security-compliance.md](governance/security-compliance.md) |
+| Arquitectura de referencia | [documentation/architecture.md](documentation/architecture.md) |
+| Operación y mantenimiento | [documentation/operational-guide.md](documentation/operational-guide.md) |
+| Roadmap por fases | [roadmap/roadmap.md](roadmap/roadmap.md) |
+| Adopción y formación | [education/adoption-and-training.md](education/adoption-and-training.md) |
+| Stack y estándares | [references/stack-and-standards.md](references/stack-and-standards.md) |
+
 <div style={{ pageBreakAfter: 'always' }}></div>
 
 ## Tabla de Contenidos

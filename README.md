@@ -4,21 +4,22 @@ Repositorio de documentación y planificación para el proyecto **Aula de Edici�
 
 El objetivo del proyecto es definir y desplegar un entorno académico y docente para edición digital asistida por IA, con infraestructura propia, software libre, control institucional de los datos y criterios de operación sostenibles.
 
-## Contenido del repositorio
+## Estructura del repositorio
 
-- [AI_Assisted_Digital_Editing_Classroom.md](AI_Assisted_Digital_Editing_Classroom.md): documento principal con el roadmap, la arquitectura de referencia, la gobernanza, los riesgos y el plan de adopción.
-- [README.md](README.md): resumen de navegación del proyecto.
+| Carpeta / archivo                                                                    | Objetivo                                                                                                           |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| [AI_Assisted_Digital_Editing_Classroom.md](AI_Assisted_Digital_Editing_Classroom.md) | Documento maestro de referencia con la visión general y enlaces al resto de materiales.                            |
+| [CONTRIBUTING.md](CONTRIBUTING.md)                                                   | Guía para contribuir al repositorio, con política de ramas, revisión por pares y proceso de alta de colaboradores. |
+| [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)                                             | Normas de conducta para la comunidad del proyecto.                                                                 |
+| [governance/](governance)                                                            | Gobernanza del proyecto: roles, comité de IA, gobierno del dato y cumplimiento.                                    |
+| [documentation/](documentation)                                                      | Documentación técnica y operativa: arquitectura, despliegue y mantenimiento.                                       |
+| [roadmap/](roadmap)                                                                  | Planificación por fases y evolución del proyecto.                                                                  |
+| [education/](education)                                                              | Material orientado a adopción docente, formación y uso educativo.                                                  |
+| [references/](references)                                                            | Referencias de stack, estándares y criterios técnicos.                                                             |
+| [images/](images)                                                                    | Recursos gráficos y elementos visuales del proyecto.                                                               |
+| [.github/](.github)                                                                  | Plantillas y automatización específica de GitHub.                                                                  |
 
-## Resumen del proyecto
-
-El roadmap propone una implantación gradual en fases:
-
-1. Descubrimiento y definición del alcance.
-2. Diseño técnico y de seguridad.
-3. Puesta en marcha de la plataforma base.
-4. Piloto docente con asignaturas seleccionadas.
-5. Producción inicial del servicio.
-6. Escalado y mejora continua.
+## Visión general
 
 La propuesta se apoya en una arquitectura open source que combina:
 
@@ -44,12 +45,6 @@ La propuesta se apoya en una arquitectura open source que combina:
 - Servicio de Informática responsable de la operación técnica.
 - Personal de administración, legal y protección de datos.
 - Estudiantes y profesorado que participen en los pilotos.
-
-## Documento principal
-
-Si quieres ver el detalle completo del planteamiento, consulta el documento principal:
-
-- [AI_Assisted_Digital_Editing_Classroom.md](AI_Assisted_Digital_Editing_Classroom.md)
 
 ## Estado
 
