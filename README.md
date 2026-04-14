@@ -1,6 +1,6 @@
-# fcom-us-open-source-ai-editing-classroom
+# Repositorio de la Facultad de Comunicación para el Aula de Edición Digital Asistida por IA
 
-Repositorio de documentación y planificación para el proyecto **Aula de Edición Digital Asistida por IA Open Source** de la Facultad de Comunicación de la Universidad de Sevilla.
+Repositorio de documentación y planificación del **Aula de Edición Digital Asistida por IA** de la Facultad de Comunicación de la Universidad de Sevilla.
 
 El objetivo del proyecto es definir y desplegar un entorno académico y docente para edición digital asistida por IA, con infraestructura propia, software libre, control institucional de los datos y criterios de operación sostenibles.
 
